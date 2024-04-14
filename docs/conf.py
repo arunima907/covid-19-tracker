@@ -18,13 +18,6 @@ import re
 
 sys.path.insert(0, os.path.abspath("../"))
 
-
-# -- Project information -----------------------------------------------------
-
-project = "Bayesian inference of COVID-19"
-copyright = "2020-2022, Jonas Dehning, Sebastian B. Mohr, Johannes Zierenberg, F. Paul Spitzner, Michael Wibral, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann"
-author = "Jonas Dehning, Sebastian B. Mohr, Johannes Zierenberg, F. Paul Spitzner, Michael Wibral, Joao Pinheiro Neto, Michael Wilczek, Viola Priesemann"
-
 verstr = "unknown"
 try:
     verstrline = open("../covid19_inference/_version.py", "rt").read()
