@@ -1,12 +1,4 @@
-"""
-    # Example: What-if scenarios
-    Create different scenarios on what may be the effect of a (future) change point
-    Non-hierarchical model using jhu data (no regions).
 
-    Runtime ~ 15 min
-
-    At the end we also show how to plot with German labels.
-"""
 
 import datetime
 import copy
