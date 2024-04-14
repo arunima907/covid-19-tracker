@@ -1,13 +1,4 @@
-# ------------------------------------------------------------------------------ #
-# @Author:        F. Paul Spitzner
-# @Email:         paul.spitzner@ds.mpg.de
-# @Created:       2020-05-03 14:40:00
-# @Last Modified: 2020-07-07 12:06:02
-# ------------------------------------------------------------------------------ #
-# failry rudimentary. todo:
-#   * go offline and check retrieval of local stuff
-#   * check meaningful output. (should be doable for the cached stuff)
-# ------------------------------------------------------------------------------ #
+
 import datetime
 
 
